@@ -9,7 +9,7 @@ def split_array(array, array_size)
     end
     big_array << sub_array
   end
-  big_array
+  return big_array
 end
 
 # Driver code - don't touch anything below this line.
